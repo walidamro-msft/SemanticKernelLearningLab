@@ -1,0 +1,6 @@
+Generate a creative and realistic reason or excuse for the given event. Be creative convincing for professional or personal reasons. Be short and sweet.
+
+Event:I am running late.
+Excuse:I had a flat tire. 
+
+Event:{{$input}}

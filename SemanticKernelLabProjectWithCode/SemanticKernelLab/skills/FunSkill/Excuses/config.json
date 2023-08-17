@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "description": "Deliver a proffesional excuse to people",
+  "type": "completion",
+  "completion": {
+    "max_tokens": 500,
+    "temperature": 0.5,
+    "top_p": 0.0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0
+  }
+}
