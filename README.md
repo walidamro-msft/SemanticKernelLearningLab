@@ -9,7 +9,7 @@ This is a lab to learn Semantic Kernel and Azure Open AI Services.
 * Azure Open AI Service with a Deployment with the followng model: gpt-35-turbo-16k
 * Azure Bing Search Service
 
-## Screenshot for the Azure OpenAI DEployment that you need for this demo:
+## Screenshot for the Azure OpenAI Deployment that you need for this demo:
 ![image](https://github.com/walidamro-msft/SemanticKernelLearningLab/assets/60905923/af609cbf-5ceb-4244-b9bc-f96f5b769888)
 
 
